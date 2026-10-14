@@ -2,6 +2,10 @@
 
 A userscript that adds a **Favourites ▾** dropdown to GitHub's header, right after the repo name, so your most-used repos are always one click away.
 
+![The Favourites button in GitHub's header, next to the repo name](docs/header.png)
+
+<img src="docs/menu.png" alt="The open Favourites dropdown, listing pinned favourites and recent repos with star toggles" width="335">
+
 - **Favourites:** repos you've pinned, in the order you pinned them
 - **Recent:** the last 10 repos you visited, tracked automatically
 - **Pin / unpin** with the star on any row, or with "Pin owner/repo" at the bottom of the menu
